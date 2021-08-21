@@ -1,0 +1,11 @@
+haarcascade_frontalface_default.xml
+ctypes
+comtypes
+pycaw.pycaw
+numpy
+math
+serial
+sys
+cv2
+matplotlib
+time
